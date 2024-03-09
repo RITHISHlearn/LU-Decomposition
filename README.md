@@ -9,7 +9,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1. .Read the elements of augmented matrix into arrays a and b
-2. 
+ 
 
 
 2.Calculate elements of L and U
@@ -31,7 +31,9 @@ To write a program to find the LU Decomposition of a matrix.
 (i) To find the L and U matrix
 
 Program to find the L and U matrix.
+
 Developed by: RITHISH P
+
 RegisterNumber: 212223230173
 
 from scipy.linalg import lu
@@ -47,7 +49,9 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
  
 Program to find the LU Decomposition of a matrix.
+
 Developed by: RITHISH P
+
 RegisterNumber: 212223230173
 
 
