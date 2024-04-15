@@ -8,7 +8,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. .Read the elements of augmented matrix into arrays a and b
+1. .Read the elements of augmented matrix into arrays a and b.
  
 
 
